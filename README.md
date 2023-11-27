@@ -1,6 +1,7 @@
 # CI Transition Project
 
 ## External Documentation
+* [Google Drive](https://drive.google.com/drive/folders/1zE89yWktC0ReRXWSyRUT1KESKb2WKs6H?usp=sharing)
 * [PyTorch Scoping Document](https://docs.google.com/document/d/19OPLOfN9jkYya7Ri7GiMAKmqEZCpjCIPMe0AAs3FFrw/edit?usp=sharing)
 * [Weekly Agenda](https://docs.google.com/document/d/1uTiMzA-FMtGFIXk_FHEst_CxpT3SW1TK0yQ-Ebl5tOE/edit?usp=sharing)
 
